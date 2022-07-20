@@ -2,8 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on any Backend Development Projects
-- 📫 Contact Via: Telegram: @Ganappriyan
-                   Gmail   : ganappriyanc@gmail.com 
+- 📫 Contact Via: <b>Telegram:</b> @Ganappriyan ; <b>Gmail:</b> ganappriyanc@gmail.com 
                   
 
 <!---
